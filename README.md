@@ -2,7 +2,7 @@
 
 A virtual drum kit built using HTML, CSS, and JavaScript.
 
-**Demo**: [Live Demo](https://niyaj-kumanali.github.io/drum-kit)
+**Demo**: [Live Demo](https://niyaj-kumanali.github.io/Drum-Kit/)
 
 ![Drum Kit](drum-kit.png)
 
@@ -30,7 +30,7 @@ The Drum Kit is a web application that allows users to play various drum sounds 
 ## Installation
 
 1. Clone the repository:
-   git clone https://github.com/niyaj-kumanali/drum-kit.git
+   git clone https://github.com/Niyaj-Kumanali/Drum-Kit.git
 
 2. Open the project in your preferred code editor.
 
@@ -58,4 +58,4 @@ This project is intended for educational purposes and learning purposes only. Yo
 
 For any questions or inquiries, please feel free to reach out:
 - Email: niyajkumanali@gmail.com
-- GitHub: niyaj-kumanali
+- GitHub: [Niyaj-Kumanali](https://github.com/Niyaj-Kumanali)
